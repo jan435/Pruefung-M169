@@ -1,3 +1,6 @@
+# Hilfestellung
+https://awesome-docker-compose.com/
+
 # Typisches Beispiel: App + PostgreSQL
 `
 services:
